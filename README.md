@@ -1,4 +1,4 @@
-Gradle tests: ![Gradle Build](https://github.com/ClementAllard/ClockSystem-TP3/actions/workflows/gradle.yml/badge.svg)
+![Gradle Build](https://github.com/ClementAllard/ClockSystem-TP3/actions/workflows/gradle.yml/badge.svg)
 
 # ClockSystem
 
